@@ -14,5 +14,5 @@
 - A scatter plot was made to show the connection between Total Coin Supply and Total Coins Mined
 
 
-![Capture2](Caputere2.png)
+![Capture2](Capture2.png)
 
